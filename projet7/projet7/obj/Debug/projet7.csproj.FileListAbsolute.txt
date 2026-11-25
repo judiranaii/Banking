@@ -1,0 +1,16 @@
+D:\Cours _L2_1er_Semestre\cours\Programmation_Event_(.net_framework)\tp\projet7\projet7\bin\Debug\projet7.exe.config
+D:\Cours _L2_1er_Semestre\cours\Programmation_Event_(.net_framework)\tp\projet7\projet7\bin\Debug\projet7.exe
+D:\Cours _L2_1er_Semestre\cours\Programmation_Event_(.net_framework)\tp\projet7\projet7\bin\Debug\projet7.pdb
+D:\Cours _L2_1er_Semestre\cours\Programmation_Event_(.net_framework)\tp\projet7\projet7\obj\Debug\projet7.csproj.AssemblyReference.cache
+D:\Cours _L2_1er_Semestre\cours\Programmation_Event_(.net_framework)\tp\projet7\projet7\obj\Debug\projet7.csproj.SuggestedBindingRedirects.cache
+D:\Cours _L2_1er_Semestre\cours\Programmation_Event_(.net_framework)\tp\projet7\projet7\obj\Debug\projet7.csproj.CoreCompileInputs.cache
+D:\Cours _L2_1er_Semestre\cours\Programmation_Event_(.net_framework)\tp\projet7\projet7\obj\Debug\projet7.exe
+D:\Cours _L2_1er_Semestre\cours\Programmation_Event_(.net_framework)\tp\projet7\projet7\obj\Debug\projet7.pdb
+D:\Cours_L2_1er_Semestre\cours\Programmation_Event_(.net_framework)\tp\projet7\projet7\bin\Debug\projet7.exe.config
+D:\Cours_L2_1er_Semestre\cours\Programmation_Event_(.net_framework)\tp\projet7\projet7\bin\Debug\projet7.exe
+D:\Cours_L2_1er_Semestre\cours\Programmation_Event_(.net_framework)\tp\projet7\projet7\bin\Debug\projet7.pdb
+D:\Cours_L2_1er_Semestre\cours\Programmation_Event_(.net_framework)\tp\projet7\projet7\obj\Debug\projet7.csproj.AssemblyReference.cache
+D:\Cours_L2_1er_Semestre\cours\Programmation_Event_(.net_framework)\tp\projet7\projet7\obj\Debug\projet7.csproj.SuggestedBindingRedirects.cache
+D:\Cours_L2_1er_Semestre\cours\Programmation_Event_(.net_framework)\tp\projet7\projet7\obj\Debug\projet7.csproj.CoreCompileInputs.cache
+D:\Cours_L2_1er_Semestre\cours\Programmation_Event_(.net_framework)\tp\projet7\projet7\obj\Debug\projet7.exe
+D:\Cours_L2_1er_Semestre\cours\Programmation_Event_(.net_framework)\tp\projet7\projet7\obj\Debug\projet7.pdb

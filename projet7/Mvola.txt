@@ -1,0 +1,31 @@
+mdp = 5690
+
+Veuillez entrer votre code PIN
+(3 seules tentatives)
+
+option1 = Mon compte
+	1)Consulter mon solde
+
+option2 = Transferer de l'argent
+	1)MVOLA 
+		 Numéro du déstinataire
+			Montant à envoyé
+				Veuillez inserer votre Code PIN pour confirmer la transaction (3 seules tentatives)
+
+option3 = Retrait d'argent
+		Numéro du distributeur
+			Montant à retirer
+				Veuillez inserer votre Code PIN pour confirmer la transaction (3 seules tentatives)
+
+option4 = Epargne et crédit
+		1) Epargne
+			Montant à déposer
+				Veuillez inserer votre Code PIN pour confirmer la transaction (3 seules tentatives)
+
+		2) Crédit
+			Demander l'éligibilité
+				Vous etes Eligible de demander une avance de 350700 Ar
+			Demander une avance
+				Entrer le montant
+					Veuillez inserer votre Code PIN pour confirmer la transaction (3 seules tentatives)
+
